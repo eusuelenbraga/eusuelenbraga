@@ -1,5 +1,4 @@
-## ✨ Olá devs, meu nome é Suelen e esse é o meu GitHub! ✨
-
+## Olá devs, meu nome é Suelen e esse é o meu GitHub! ✨
 
 
 👾  Atualmente trabalhando como Analista de Desenvolvimento de Software;
