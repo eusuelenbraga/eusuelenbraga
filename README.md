@@ -5,9 +5,7 @@
 
 💻 Graduanda em Análise e Desenvolvimento de Sistemas;
 
-🚀 Aperfeiçoando minhas habilidades em HTML, Javascript, CSS e React;
-
-🔎  Colaborando em projetos frontend;
+🚀  Colaborando em projetos frontend;
 
 😻 Louca dos gatos.
 
