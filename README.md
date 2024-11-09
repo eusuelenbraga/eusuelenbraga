@@ -3,9 +3,9 @@
 
 👾  Atualmente trabalhando como Analista de Desenvolvimento de Software;
 
-💻 Graduanda em Análise e Desenvolvimento de Sistemas;
+💻 Graduanda em Análise e Desenvolvimento de Sistemas (4/5);
 
-🚀  Colaborando em projetos frontend;
+🚀  Colaborando em projetos fullstack;
 
 😻 Louca dos gatos.
 
