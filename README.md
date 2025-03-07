@@ -25,7 +25,7 @@
 
 <div>
 <a href = "mailto:contato@eusuelenbraga"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/suelenbraga-/" target="_blank"> <img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
+<a href="https://www.linkedin.com/in/suelenbraga-/" target="_blank"> <img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" /> </a>
 </div>
 
 <br>
