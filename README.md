@@ -1,9 +1,9 @@
 ## Olá devs, meu nome é Suelen Braga!
 
 
-👾  Atualmente trabalhando como Analista de Desenvolvimento de Software;
+👾  Atuando como Desenvolvedora de Software;
 
-💻 Graduanda em Análise e Desenvolvimento de Sistemas (5/5);
+💻 Graduada em Análise e Desenvolvimento de Sistemas (5/5);
 
 🚀  Colaborando em projetos fullstack;
 
