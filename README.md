@@ -3,7 +3,7 @@
 
 👾  Atuando como Desenvolvedora de Software;
 
-💻 Graduada em Análise e Desenvolvimento de Sistemas (5/5);
+💻 Graduada em Análise e Desenvolvimento de Sistemas;
 
 🚀  Colaborando em projetos fullstack;
 
