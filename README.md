@@ -1,8 +1,6 @@
 ## Olá devs, meu nome é Suelen Braga!
 
 
-👾  Atuando como Desenvolvedora de Software;
-
 💻 Graduada em Análise e Desenvolvimento de Sistemas;
 
 🚀  Colaborando em projetos fullstack;
